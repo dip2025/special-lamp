@@ -1,2 +1,4 @@
 # special-lamp
-This is my first demo Git Repository.
+This is my first Git Repository.
+<br>
+Demo
